@@ -5,3 +5,5 @@ Ceci est un plan bidon qui ne sera jamais réalisé
 
 Cette modification est faite depuis GitHub
 Est-ce vrai que python est beaucoup utilisé @Google?
+
+Tout s'est bien passé. Je fais cette petite modif depuis mon local
