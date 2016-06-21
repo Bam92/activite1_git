@@ -2,3 +2,6 @@ Ceci est un plan bidon qui ne sera jamais réalisé
 
 1. Maitriser les langages web
 2. Maitriser les langage mobile
+
+Cette modification est faite depuis GitHub
+Est-ce vrai que python est beaucoup utilisé @Google?
